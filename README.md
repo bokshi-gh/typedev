@@ -1,21 +1,5 @@
-# trix
+# Typedev
 
-## Core idea
+Typedev is a developer-focused typing platform where users select a programming language, and the app automatically fetches and filters real GitHub code files based on that language.
 
-- Typing website like [Monkeytype](https://monkeytype.com) but for Developers
-- Instead of random paragraph, fetch the random code from github and render
-- User will chosen any language and based on the selection fetch and render that language's random code from the github
-
-## Additional
-
-- Truncate code if it is large
-- Easy, Medium, Hard filter
-- Remove comment
-- Rating features like wpm, accuracy
-- Multiplayer
-- Leaderboard
-
-## Premium model
-
-- Remove ADs
-- Custom themes, fonts
+The selected code is then converted into a clean, structured typing test with speed and accuracy evaluation.
